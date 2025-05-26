@@ -10,3 +10,6 @@
 - [x]  [Diagonal Difference](/hackerrank-challanges/tree/main/src/main/java/com/hackerrank/StairCase/DiagonalDifference.java) - [HackerRank](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 - [x]  [Breaking Best And Worst Records](/hackerrank-challanges/tree/main/src/main/java/com/hackerrank/StairCase/BreakingBestAndWorstRecords.java) - [HackerRank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 - [x]  [A Very Big Sum](/hackerrank-challanges/tree/main/src/main/java/com/hackerrank/StairCase/AVeryBigSum.java) - [HackerRank](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+- [x]  [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+- [x]  [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
+- [x]  [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)

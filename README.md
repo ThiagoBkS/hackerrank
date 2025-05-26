@@ -13,3 +13,5 @@
 - [x]  [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 - [x]  [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
 - [x]  [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+- [x]  [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)
+- [x]  [Strange Adversiting](https://www.hackerrank.com/challenges/strange-advertising/problem)

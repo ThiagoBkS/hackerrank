@@ -16,4 +16,6 @@
 - [x]  [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)
 - [x]  [Strange Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
 - [x]  [Camelcase](https://www.hackerrank.com/challenges/camelcase)
-- [x]  [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
+- [x]  [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
+- [x]  [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)
+- [x]  [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)

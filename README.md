@@ -14,4 +14,6 @@
 - [x]  [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)
 - [x]  [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
 - [x]  [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)
-- [x]  [Strange Adversiting](https://www.hackerrank.com/challenges/strange-advertising/problem)
+- [x]  [Strange Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)
+- [x]  [Camelcase](https://www.hackerrank.com/challenges/camelcase)
+- [x]  [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)

@@ -2,15 +2,12 @@
  * Complete the vowelsAndConsonants function.
  * Print your output using 'console.log()'.
  */
+function vowelsAndConsonants(s) {
+	const vowels = "aeiou";
 
-function vowelsAndConsonants(string) {
-	const vowelsMapped = "aeiou";
+	for (let charIndex = 0; charIndex < s.length; charIndex++)
+		if (vowels.includes(s[charIndex])) console.log(s[charIndex]);
 
-	for (let charIndex = 0; charIndex < string.length; charIndex++)
-		if (vowelsMapped.includes(string[charIndex])) console.log(string[charIndex]);
-
-	for (let charIndex = 0; charIndex < string.length; charIndex++)
-		if (!vowelsMapped.includes(string[charIndex])) console.log(string[charIndex]);
+	for (let charIndex = 0; charIndex < s.length; charIndex++)
+		if (!vowels.includes(s[charIndex])) console.log(s[charIndex]);
 }
-
-vowelsAndConsonants("javascriptloops");

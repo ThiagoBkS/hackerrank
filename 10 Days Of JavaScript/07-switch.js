@@ -1,6 +1,5 @@
 function getLetter(s) {
 	// Write your code here
-
 	switch (s.charAt(0)) {
 		case "a":
 		case "e":
@@ -24,5 +23,3 @@ function getLetter(s) {
 			return "D";
 	}
 }
-
-console.log(getLetter("adfgt"));

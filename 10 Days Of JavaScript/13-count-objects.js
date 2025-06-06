@@ -7,18 +7,7 @@
 function getCount(objects) {
 	let satisfyObjects = 0;
 
-	for (let object of objects) {
-		const { x, y } = object;
-		if (x === y) satisfyObjects++;
-	}
+	for (let object of objects) if (object.x === object.y) satisfyObjects++;
 
 	return satisfyObjects;
 }
-
-getCount([
-	{ x: 1, y: 1 },
-	{ x: 2, y: 3 },
-	{ x: 3, y: 3 },
-	{ x: 3, y: 4 },
-	{ x: 4, y: 5 },
-]);

@@ -11,4 +11,3 @@ function reverseString(s) {
 		console.log(s);
 	}
 }
-reverseString("1234");

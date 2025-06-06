@@ -5,14 +5,11 @@
  */
 
 class Polygon {
-	constructor(lenghts) {
-		this.lenghts = lenghts;
+	constructor(lengths) {
+		this.lengths = lengths;
 	}
 
 	perimeter() {
-		let total = 0;
-		for (let length of this.lenghts) total += length;
-
-		return total;
+		return this.lengths.reduce((a, b) => a + b);
 	}
 }

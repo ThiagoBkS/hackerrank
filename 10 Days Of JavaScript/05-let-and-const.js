@@ -1,14 +1,14 @@
 function main() {
 	// Write your code here. Read input using 'readLine()' and print output using 'console.log()'.
-	const PI = Math.PI;
-	const input = readLine();
+	let PI = Math.PI;
+	const circleRadius = readLine();
 
 	// Print the area of the circle:
-	let area = PI * Math.pow(input, 2);
+	const area = PI * Math.pow(circleRadius, 2);
 	console.log(area);
 
 	// Print the perimeter of the circle:
-	let perimeter = 2 * PI * input;
+	const perimeter = 2 * PI * circleRadius;
 	console.log(perimeter);
 
 	try {
@@ -20,5 +20,3 @@ function main() {
 		console.error("You correctly declared 'PI' as a constant.");
 	}
 }
-
-main();

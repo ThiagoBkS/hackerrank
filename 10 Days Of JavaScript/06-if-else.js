@@ -1,6 +1,7 @@
 function getGrade(score) {
-	let grade;
 	// Write your code here
+	let grade;
+
 	if (score <= 30) {
 		if (score > 25) grade = "A";
 		else if (score > 20) grade = "B";

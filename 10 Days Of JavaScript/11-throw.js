@@ -10,8 +10,3 @@ function isPositive(a) {
 
 	return "YES";
 }
-
-isPositive(3);
-isPositive(1);
-isPositive(2);
-isPositive(3);

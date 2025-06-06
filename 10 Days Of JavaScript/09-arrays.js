@@ -5,17 +5,16 @@
  **/
 function getSecondLargest(nums) {
 	// Complete the function
-	let firstLargest = 0;
-	let secondLargest = 0;
+
+	let firstLargestNum = 0;
+	let secondLargestNum = 0;
 
 	for (let num of nums) {
-		if (num > firstLargest) {
-			secondLargest = firstLargest;
-			firstLargest = num;
-		} else if (num < firstLargest && num > secondLargest) secondLargest = num;
+		if (num > firstLargestNum) {
+			secondLargestNum = firstLargestNum;
+			firstLargestNum = num;
+		} else if (num < firstLargestNum && num > secondLargestNum) secondLargestNum = num;
 	}
 
-	return secondLargest;
+	return secondLargestNum;
 }
-
-console.log(getSecondLargest([2, 3, 6, 6, 5]));

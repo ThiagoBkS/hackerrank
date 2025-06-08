@@ -1,6 +1,6 @@
 # HackerRank Solving Problems
 
-Esse repositorio contem todos os desafios que eu completei do [HackerRank](https://www.hackerrank.com/).
+Este repositório contém todos os desafios que completei no [HackerRank](https://www.hackerrank.com/).
 
 | Tópico                                                                           | Soluções                                    |
 | -------------------------------------------------------------------------------- | ------------------------------------------- |
